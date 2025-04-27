@@ -34,4 +34,4 @@
 
 ## 📣 Support & Feedback
 
-Open an issue or join our Discord for help, suggestions, and updates!
+Open an issue for help, suggestions, and updates!
